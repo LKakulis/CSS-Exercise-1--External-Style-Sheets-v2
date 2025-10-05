@@ -1,0 +1,18 @@
+.background-container {
+        background-image: url(Flag_of_the_United_Kingdom_\(1-2\).svg.png);
+        background-size: cover; 
+        background-position: center;
+        background-repeat: repeat;
+        height: 500px;
+        color: rgb(255, 255, 255);
+        padding: 20px;
+}
+    
+.site_title{background-color: rgb(60, 51, 36); padding: 10px; width: 185px; border-width: 3px;}
+.page_title{display: flex; justify-content: center;}
+.section_desc{background-color: rgb(21, 21, 71); padding: 5px; padding-left: 20px; padding-right: 20px; width: 400px; border-width: 3px;}
+.global_nav{background-color: rgb(190, 162, 131); padding: 15px; width: 98px; border-width: 3px;}
+.list_indent{padding-left: 15px; list-style-type: disc;}
+.local_nav{background-color: rgb(187, 92, 92); padding: 15px; width: 98px; border-width: 3px;}
+.image{display: flex; justify-content: center;}
+

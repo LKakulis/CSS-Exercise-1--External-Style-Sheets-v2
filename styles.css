@@ -1,0 +1,5 @@
+.semester-list{list-style-type: none; padding-left: 5px; color:green; font-weight: bolder;}
+.semester{background-color: rgb(71, 218, 191); border-width: 4px; border-style: solid; border-color:#105410; padding-left: 20px; padding-bottom: 20px; margin-bottom: 12px;}
+.semester-name{font-family: Arial, Helvetica, sans-serif; font-weight: bolder; border-bottom-width: 4px; border-bottom-style: dotted; border-bottom-color:rgb(16, 74, 16)}
+.courses{background-color: rgb(125, 92, 156); list-style-type: square; padding: 5px}
+.class_exercise_title{background-color: rgb(22, 66, 25);}
